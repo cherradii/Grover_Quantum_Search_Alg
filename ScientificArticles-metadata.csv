@@ -1,0 +1,98 @@
+[
+	{
+		"ident" : 1,
+		"state_index" : 000,
+		"title" : "Quantum k-community detection: algorithm proposals and cross-architectural evaluation",
+		"keywords" : "Community detection; Quantum computing; Quantum annealing; Modularity; NISQ",
+		"authors" : "Felix G. Gemeinhardt, Robert Wille & Manuel Wimmer",
+		"publisher" : "Quantum Information Processing volume 20, Article number: 302 (2021)",
+		"received_date" : "20 February 2021",
+		"revised_date" : "24 August 2021",
+		"accepted_date" : "09 September 2021",
+		"doi" : "https://doi.org/10.1007/s11128-021-03239-1"
+	},
+	{
+		"ident" : 2,
+		"state_index" : 001,
+		"title" : "Quantum supremacy using a programmable superconducting processor",
+		"keywords" : "Quantum information; Quantum physics",
+		"authors" : "Frank Arute, Kunal Arya, Ryan Babbush, Dave Bacon, Joseph C. Bardin, Rami Barends, Rupak Biswas, Sergio Boixo, Fernando G. S. L. Brandao, David A. Buell, Brian Burkett, Yu Chen, Zijun Chen, Ben Chiaro, Roberto Collins, William Courtney, Andrew Dunsworth, Edward Farhi, Brooks Foxen, Austin Fowler, Craig Gidney, Marissa Giustina, Rob Graff, Keith Guerin, Steve Habegger, Matthew P. Harrigan, Michael J. Hartmann, Alan Ho, Markus Hoffmann, Trent Huang, Travis S. Humble, Sergei V. Isakov, Evan Jeffrey, Zhang Jiang, Dvir Kafri, Kostyantyn Kechedzhi, Julian Kelly, Paul V. Klimov, Sergey Knysh, Alexander Korotkov, Fedor Kostritsa, David Landhuis, Mike Lindmark, Erik Lucero, Dmitry Lyakh, Salvatore Mandrà, Jarrod R. McClean, Matthew McEwen, Anthony Megrant, Xiao Mi, Kristel Michielsen, Masoud Mohseni, Josh Mutus, Ofer Naaman, Matthew Neeley, Charles Neill, Murphy Yuezhen Niu, Eric Ostby, Andre Petukhov, John C. Platt, Chris Quintana, Eleanor G. Rieffel, Pedram Roushan, Nicholas C. Rubin, Daniel Sank, Kevin J. Satzinger, Vadim Smelyanskiy, Kevin J. Sung, Matthew D. Trevithick, Amit Vainsencher, Benjamin Villalonga, Theodore White, Z. Jamie Yao, Ping Yeh, Adam Zalcman, Hartmut Neven & John M. Martinis",
+		"publisher" : "Nature volume 574, pages505–510 (2019)",
+		"received_date" : "22 July 2019",
+		"revised_date" : "20 September 2019",
+		"accepted_date" : "23 October 2019",
+		"doi" : "https://doi.org/10.1038/s41586-019-1666-5"
+	},
+	{
+		"ident" : 3,
+		"state_index" : 010,
+		"title" : "On data lake architectures and metadata management",
+		"keywords" : "Data lakes; Data lake architectures; Metadata management; Metadata modeling",
+		"authors" : "Pegdwendé Sawadogo & Jérôme Darmont",
+		"publisher" : "Journal of Intelligent Information Systems volume 56, pages97–120 (2021)",
+		"received_date" : "08 December 2019",
+		"revised_date" : "20 March 2020",
+		"accepted_date" : "22 May 2020",
+		"doi" : "https://doi.org/10.1007/s10844-020-00608-7"
+	},
+	{
+		"ident" : 4,
+		"state_index" : 011,
+		"title" : "QDNN: deep neural networks with quantum layers",
+		"keywords": "Deep neural networks; Quantum machine learning; Hybrid quantum-classical algorithm; NISQ",
+		"authors" : "Chen Zhao & Xiao-Shan Gao",
+		"publisher" : "Quantum Machine Intelligence volume 3, Article number: 15 (2021)",
+		"received_date" : "23 November 2020",
+		"revised_date" : "19 March 2021",
+		"accepted_date" : "26 April 2021",
+		"doi" : "https://doi.org/10.1007/s42484-021-00046-w"
+	},
+	{
+		"ident" : 5,
+		"state_index" : 100,
+		"title" : "ConvLSTMConv network: a deep learning approach for sentiment analysis in cloud computing",
+		"keywords": "Natural language processing; Deep learning; Opinion mining; Sentiment analysis; Cloud computing; Convolutional neural network; Long short-term memory network",
+		"authors" : "Mohsen Ghorbani, Mahdi Bahaghighat, Qin Xin & Figen Özen",
+		"publisher" : "Journal of Cloud Computing volume 9, Article number: 16 (2020)",
+		"received_date" : "24 October 2019",
+		"revised_date" : "17 February 2020",
+		"accepted_date" : "05 March 2020",
+		"doi" : "https://doi.org/10.1186/s13677-020-00162-1"
+	},
+	{
+		"ident" : 6,
+		"state_index" : 101,
+		"title" : "Quantum k-means algorithm based on trusted server in quantum cloud computing",
+		"keywords": "Quantum computing; Quantum homomorphic encryption; Key update algorithm; IBM Qiskit; Quantum cloud computing",
+		"authors" : "Changqing Gong, Zhaoyang Dong, Abdullah Gani & Han Qi",
+		"publisher" : "Quantum Information Processing volume 20, Article number: 130 (2021)",
+		"received_date" : "11 November 2020",
+		"revised_date" : "17 March 2021",
+		"accepted_date" : "01 April 2021",
+		"doi" : "https://doi.org/10.1007/s11128-021-03071-7"
+	},
+	{
+		"ident" : 7,
+		"state_index" : 110,
+		"title" : "An introduction to quantum machine learning: from quantum logic to quantum deep learning",
+		"keywords": "Quantum computing; Quantum machine learning; Quantum deep learning",
+		"authors" : "Leonardo Alchieri, Davide Badalotti, Pietro Bonardi & Simone Bianco",
+		"publisher" : "Quantum Machine Intelligence volume 3, Article number: 28 (2021)",
+		"received_date" : "19 May 2021",
+		"revised_date" : "26 October 2021",
+		"accepted_date" : "15 November 2021",
+		"doi" : "https://doi.org/10.1007/s42484-021-00056-8"
+	},
+	{
+		"ident" : 8,
+		"state_index" : 111,
+		"title" : "Understanding mathematics of Grover’s algorithm",
+		"keywords": "Quantum computation; Grover’s algorithm; Unitary operations",
+		"authors" : "Paweł J. Szabłowski",
+		"publisher" : "Quantum Information Processing volume 20, Article number: 191 (2021)",
+		"received_date" : "12 January 2021",
+		"revised_date" : "07 May 2021",
+		"accepted_date" : "26 May 2021",
+		"doi" : "https://doi.org/10.1007/s11128-021-03125-w"
+	}
+]
